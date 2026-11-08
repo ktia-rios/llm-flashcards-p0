@@ -1,0 +1,4 @@
+Hoje vamos falar sobre a camada de transporte no modelo OSI. Essa camada é responsável pelo transporte de dados de forma confiável entre dois hosts na rede. 
+Os dois principais protocolos dessa camada são o TCP e o UDP. 
+O TCP é um protocolo orientado à conexão, o que significa que ele estabelece uma sessão antes de enviar os dados, garante a entrega na ordem correta e faz controle de erros. 
+Já o UDP é um protocolo não orientado à conexão. Ele envia os pacotes sem garantia de entrega ou ordem, tornando-se muito mais rápido e ideal para transmissões em tempo real, como streaming de vídeo ou jogos online.
